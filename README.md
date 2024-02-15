@@ -1,44 +1,24 @@
-# vCard - Personal portfolio
+# Personal Portfolio - Winter Jackson
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+Welcome to my personal portfolio repository! Here you'll find everything you need to know about me, my skills, projects, and how to get in touch.
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+## About Me
 
-## Demo
+I am a passionate and experienced software engineer with expertise in, web development, mobile app development, etc.. I love tackling challenging problems and building innovative solutions that make a positive impact.
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+## How to Run
 
-## Prerequisites
+Click on the link below to check out my portfolio:
 
-Before you begin, ensure you have met the following requirements:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-## Installing vCard
+## Contact Me
 
-To install **vCard**, follow these steps:
+Feel free to reach out to me if you have any questions, project ideas, or collaboration opportunities!
 
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+- LinkedIn: Winter Jackson (https://www.linkedin.com/in/winter-jackson-454843178/)
+- Website: [Your Portfolio Website](link)
 
 ## License
 
-MIT
+This project is licensed under the MIT License.
